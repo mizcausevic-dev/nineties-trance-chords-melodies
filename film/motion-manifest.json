@@ -1,0 +1,26 @@
+{
+  "title": "90s Trance Chords & Melodies",
+  "study": "nt01",
+  "bpm": 138,
+  "source_audio": "preview/nineties-trance-chords-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "8234ae24b051b88af02551aee717147de7c006462d5f2bc86a3d41c453dc3fbc",
+  "source_midi": "midi/nt01-first-light/nt01-first-light-combined.mid",
+  "source_midi_sha256": "255da0faab57ccc10c1ccc742ef7140cb695bd6da8a5bc7c3e5a27873460e175",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "c0a32d835615bdc19835833556fd92c29a071bfed8b3274527a5d6a82535216a",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "1266578079d1be93f79076d74e1fe34e8cf523a1fa506d002c4a31573ea8f19a",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "87742854003c28b59ac573ef3d5af3f294362c2e6580c445b35d7f01a87eec24",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
