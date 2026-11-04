@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "nineties-trance-chords-melodies",
+  "display_name": "90s Trance Chords and Melodies Studies",
+  "brief_name": "90s Trance Chords and Melodies",
+  "creative_intention": "Original chord progressions and arpeggio-led phrases in a trance-inspired direction.",
+  "rhythmic_direction": "A regular dance pulse supports eight-note sequences and sustained harmony.",
+  "palette": "Synth chords, bass pulse, arpeggios and restrained answer voices.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not claims of cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack nineties-trance-chords-melodies",
+  "actual_tempo_bpm": 138,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "nt01",
+      "title": "First Light",
+      "tonic": "A",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "nt02",
+      "title": "Glass Horizon",
+      "tonic": "C",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "nt03",
+      "title": "Wide Sky",
+      "tonic": "D#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "nt04",
+      "title": "Final Lift",
+      "tonic": "A#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}

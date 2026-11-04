@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/nineties-trance-chords-melodies-simple-synth-preview.mp3",
+  "preview_sha256": "8234ae24b051b88af02551aee717147de7c006462d5f2bc86a3d41c453dc3fbc",
+  "source_midi_path": "midi/nt01-first-light/nt01-first-light-combined.mid",
+  "source_midi_sha256": "255da0faab57ccc10c1ccc742ef7140cb695bd6da8a5bc7c3e5a27873460e175",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "nt01",
+    "start_seconds": 0,
+    "end_seconds": 55.652
+  },
+  "measurement": {
+    "sample_peak": 0.175518,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

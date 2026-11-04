@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/nineties-trance-chords-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "8234ae24b051b88af02551aee717147de7c006462d5f2bc86a3d41c453dc3fbc",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "2c0063d52cfac139ad95672610f9e2b689efce3aaef99a0d89cd96eaad03fa8a",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}
