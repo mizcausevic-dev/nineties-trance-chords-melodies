@@ -54,6 +54,12 @@ def main():
                             pitches = [pitches[1], pitches[2], pitches[0]+12]
                         if variation == 2:
                             pitches = [pitches[0]-12, pitches[1], pitches[2]]
+                        if args.pack == "nineties-trance-chords-melodies":
+                            # Rotate the original triad by bar and study so the
+                            # long chords move through distinct upper voicings.
+                            pitches = sorted(study["chords"][(bar + variation) % 4])
+                            for _ in range((study_index + bar + variation + 1) % len(pitches)):
+                                pitches = pitches[1:] + [pitches[0] + 12]
                         for pitch in sorted(pitches):
                             notes.append((bar*release.BAR_TICKS, 1440, pitch, 72 + (bar%2)*8))
                 else:

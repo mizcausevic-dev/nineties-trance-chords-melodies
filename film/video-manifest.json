@@ -1,15 +1,26 @@
 {
+  "title": "90s Trance Chords and Melodies",
+  "study": "nt01",
+  "bpm": 138,
   "source_audio": "preview/nineties-trance-chords-melodies-simple-synth-preview.mp3",
-  "source_audio_sha256": "8234ae24b051b88af02551aee717147de7c006462d5f2bc86a3d41c453dc3fbc",
+  "source_audio_sha256": "1652042889e973ae95596318bbb0fdaa4b2d6346b1421792deee92cda21fb49c",
+  "source_midi": "midi/nt01-first-light/nt01-first-light-combined.mid",
+  "source_midi_sha256": "8645c0b9c64969e40b2f705f5a6cb382d6d25d25ebecc05c9147d6051932d214",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "850360e999784726ff7d89343f196d85fe8ad4beda025fa7aea706b4d4c0a673",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "1266578079d1be93f79076d74e1fe34e8cf523a1fa506d002c4a31573ea8f19a",
   "excerpt_start_seconds": 0,
-  "excerpt_duration_seconds": 18,
-  "video": "film/preview.mp4",
-  "video_sha256": "2c0063d52cfac139ad95672610f9e2b689efce3aaef99a0d89cd96eaad03fa8a",
   "duration_seconds": 18.0,
-  "video_codec": "H.264",
-  "audio_codec": "AAC",
+  "video": "film/preview.mp4",
+  "video_sha256": "7706fe4b629f23a39f8e59a3ec3fc67350e31be57e807b9ac19fce0af2a92d1d",
   "caption": "film/preview.vtt",
-  "poster": "film/poster.jpg",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
   "disclosure": "preview, not master",
-  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
 }
