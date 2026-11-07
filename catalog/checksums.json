@@ -273,8 +273,8 @@
     },
     {
       "path": "downloads/nineties-trance-chords-melodies-midi.zip",
-      "bytes": 40501,
-      "sha256": "83565523da84a44217c6a25bba580b0098ffbf3ce1a26370e14ef6d4f3ab48fe"
+      "bytes": 41488,
+      "sha256": "4c3fa87be246398ec5bbfa39721e8b5c8c1a63e727ebb3b9abaa24437e4c364c"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -323,8 +323,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 11036,
-      "sha256": "212f7a6607edd700fe89bd0403770fd0a7674ffea2e0294fc023145965cb7e24"
+      "bytes": 11226,
+      "sha256": "8a51b9bc41080da2f56f7deebe25d12f057216916c309241c62fa9e657d3380e"
     },
     {
       "path": "midi/nt01-first-light/chord_pulse.mid",
@@ -467,6 +467,11 @@
       "sha256": "dc1b4e84f1373a6a14092bc65ffcae8d7aeac24f16fe60adc14240153230db5b"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 798,
       "sha256": "9ccc8c77ae745937c716ba63775b6ab72219f74595a6d0246629f4d1434bc7ce"
@@ -483,8 +488,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4331,
-      "sha256": "db275eaeba5d99c187e2e22008d480efb075da4b073955363d4627ae10fc0879"
+      "bytes": 4446,
+      "sha256": "82edb66c1f82d1ddd3e7afb860ae12059b60022f252ed40e72d7409497c873dc"
     },
     {
       "path": "REVISION.md",
